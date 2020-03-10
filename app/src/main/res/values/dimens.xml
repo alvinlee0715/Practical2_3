@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_wide">16dp</dimen>
+    android:layout_marginStart="@dimen/margin_wide"
+    android:layout_marginTop="@dimen/margin_wide"
+    android:layout_marginEnd="@dimen/margin_wide"
+
+    <dimen name="box_text_size">24sp</dimen>
+</resources>
